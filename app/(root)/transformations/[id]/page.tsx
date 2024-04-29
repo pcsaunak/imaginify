@@ -1,6 +1,6 @@
 import React from "react";
 
-const TransformationsPage = (props: { id: number }) => {
+const TransformationsPage = ({ props: { id } }) => {
   return <div>TransformationsPage: {props.id} </div>;
 };
 
