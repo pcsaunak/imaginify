@@ -4,7 +4,7 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <p>This is the home page with User button when a user is sign up</p>
+      <p>This is the home page with User button when a user has signed up</p>
     </div>
   );
 };
